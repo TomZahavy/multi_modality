@@ -4,7 +4,7 @@
 
 This is the project page for my work on Deep Multi-Modal Classification in E-Commerce. 
 
-![ScreenShot](multimodalnet2.pdf)
+![ScreenShot](multimodalnet2.png)
 
 The project took place during my summer internship at Walmart Labs. 
 
