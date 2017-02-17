@@ -4,6 +4,8 @@
 
 This is the project page for my work on Deep Multi-Modal Classification in E-Commerce. 
 
+![ScreenShot](https://raw.github.com/{TomZahavy}/{multi_modality}/{master}/{pamultimodalnet2.pdf})
+
 The project took place during my summer internship at Walmart Labs. 
 
 Contributers:
