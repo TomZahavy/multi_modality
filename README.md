@@ -6,6 +6,11 @@ This is the project page for my work on Deep Multi-Modal Classification in E-Com
 
 The project took place during my summer internship at Walmart Labs. 
 
+Contributers:
+- Tom Zahavy
+- Alessandro Magnani
+- Abhinandan Krishnan
+- Shie Mannor
 
 
 Links:
